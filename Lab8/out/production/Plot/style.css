@@ -1,0 +1,11 @@
+.chart-series-line {
+    -fx-stroke-width: 3px;
+    -fx-stroke: darkred;
+}
+
+.chart-line-symbol {
+    -fx-background-color: #8b0000, darkred;
+    -fx-background-insets: 0, 2;
+    -fx-background-radius: 2px;
+    -fx-padding: 2px;
+}
